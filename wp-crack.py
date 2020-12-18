@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Author : RandsX
-Team   : 22XploiterCrew
+Author : ZOLAYGANS
+TEAM   : NONE
 """
 
 _E='[{}Trying{}] {}::{}'
